@@ -1,0 +1,8 @@
+#+TITLE: Doggy Poo
+I love dogs because of their loyalty, intelligence and human-like emotions. 
+I hope to have a dog always together with me.
+
+Due to kinds of reasons, I cannot have a *real* dog right now, and even cannot see
+any possibility in recent years. So here I try to implement one within Emacs, which is my
+daily tool for coding, writing and reading. In this way, the dog can be together with me in another
+lovely space.
